@@ -1,0 +1,45 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# --- Security / API keys / Secrets ---
+*.jks
+*.keystore
+*.pem
+*.p12
+
+# Ignore Google Services if using Firebase (optional but recommended)
+app/google-services.json
+
+# Prevent environment or config secrets
+*.env
+secrets.properties
+
+# IDE
+/.idea
+.vscode/
+
+# Build / release artifacts
+/app/release/
+*.apk
+*.aab
+/output-metadata.json
+
+# Local config / SDK / secrets
+local.properties
+*.jks
+*.keystore
+secrets.properties
+

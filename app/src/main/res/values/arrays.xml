@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="vehicle_types">
+        <item>Select Vehicle Type</item>
+        <item>Bike</item>
+        <item>3 Wheeler</item>
+        <item>Car</item>
+    </string-array>
+</resources>
