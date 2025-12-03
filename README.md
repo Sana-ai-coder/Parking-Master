@@ -6,7 +6,6 @@ Parking Master is an intelligent Android application that helps users find nearb
 
 ## Table of Contents
 
-- [Screenshots](#screenshots)
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
 - [How to Run the Project](#how-to-run-the-project)
@@ -16,12 +15,6 @@ Parking Master is an intelligent Android application that helps users find nearb
 - [Developer Notes](#developer-notes)
 - [Contributing](#contributing)
 - [Developed By](#developed-by)
-
----
-
-<h2 id="screenshots">📸 Screenshots</h2>
-
-_Add screenshots of your app here_
 
 ---
 
